@@ -1,6 +1,6 @@
+import React from 'react';
 import AppShell from '../../components/AppShell';
-import fs from 'fs';
-import path from 'path';
+
 
 export default function ContentValidator() {
   // TODO: Read MDX files and flag missing frontmatter keys

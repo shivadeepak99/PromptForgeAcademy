@@ -1,3 +1,4 @@
+import React from 'react';
 import AppShell from '../components/AppShell';
 import Link from 'next/link';
 
